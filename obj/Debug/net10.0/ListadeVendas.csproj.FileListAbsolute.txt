@@ -1,0 +1,15 @@
+C:\Users\vinic\Desktop\Projetos\ListadeVendas\ListadeVendas\bin\Debug\net10.0\ListadeVendas.exe
+C:\Users\vinic\Desktop\Projetos\ListadeVendas\ListadeVendas\bin\Debug\net10.0\ListadeVendas.deps.json
+C:\Users\vinic\Desktop\Projetos\ListadeVendas\ListadeVendas\bin\Debug\net10.0\ListadeVendas.runtimeconfig.json
+C:\Users\vinic\Desktop\Projetos\ListadeVendas\ListadeVendas\bin\Debug\net10.0\ListadeVendas.dll
+C:\Users\vinic\Desktop\Projetos\ListadeVendas\ListadeVendas\bin\Debug\net10.0\ListadeVendas.pdb
+C:\Users\vinic\Desktop\Projetos\ListadeVendas\ListadeVendas\obj\Debug\net10.0\ListadeVendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\Projetos\ListadeVendas\ListadeVendas\obj\Debug\net10.0\ListadeVendas.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\Projetos\ListadeVendas\ListadeVendas\obj\Debug\net10.0\ListadeVendas.AssemblyInfo.cs
+C:\Users\vinic\Desktop\Projetos\ListadeVendas\ListadeVendas\obj\Debug\net10.0\ListadeVendas.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\Projetos\ListadeVendas\ListadeVendas\obj\Debug\net10.0\ListadeVendas.dll
+C:\Users\vinic\Desktop\Projetos\ListadeVendas\ListadeVendas\obj\Debug\net10.0\refint\ListadeVendas.dll
+C:\Users\vinic\Desktop\Projetos\ListadeVendas\ListadeVendas\obj\Debug\net10.0\ListadeVendas.pdb
+C:\Users\vinic\Desktop\Projetos\ListadeVendas\ListadeVendas\obj\Debug\net10.0\ListadeVendas.genruntimeconfig.cache
+C:\Users\vinic\Desktop\Projetos\ListadeVendas\ListadeVendas\obj\Debug\net10.0\ref\ListadeVendas.dll
+C:\Users\vinic\Desktop\Projetos\ListadeVendas\ListadeVendas\obj\Debug\net10.0\ListadeVendas.sourcelink.json
