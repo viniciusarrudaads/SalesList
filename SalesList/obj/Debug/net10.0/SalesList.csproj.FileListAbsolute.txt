@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\Vinicius\Outros\Citologias\PROTOCOLOS\123\SalesList\SalesList\bin\Debug\net10.0\SalesList.exe
+C:\Users\PC\Desktop\Vinicius\Outros\Citologias\PROTOCOLOS\123\SalesList\SalesList\bin\Debug\net10.0\SalesList.deps.json
+C:\Users\PC\Desktop\Vinicius\Outros\Citologias\PROTOCOLOS\123\SalesList\SalesList\bin\Debug\net10.0\SalesList.runtimeconfig.json
+C:\Users\PC\Desktop\Vinicius\Outros\Citologias\PROTOCOLOS\123\SalesList\SalesList\bin\Debug\net10.0\SalesList.dll
+C:\Users\PC\Desktop\Vinicius\Outros\Citologias\PROTOCOLOS\123\SalesList\SalesList\bin\Debug\net10.0\SalesList.pdb
+C:\Users\PC\Desktop\Vinicius\Outros\Citologias\PROTOCOLOS\123\SalesList\SalesList\obj\Debug\net10.0\SalesList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Vinicius\Outros\Citologias\PROTOCOLOS\123\SalesList\SalesList\obj\Debug\net10.0\SalesList.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Vinicius\Outros\Citologias\PROTOCOLOS\123\SalesList\SalesList\obj\Debug\net10.0\SalesList.AssemblyInfo.cs
+C:\Users\PC\Desktop\Vinicius\Outros\Citologias\PROTOCOLOS\123\SalesList\SalesList\obj\Debug\net10.0\SalesList.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Vinicius\Outros\Citologias\PROTOCOLOS\123\SalesList\SalesList\obj\Debug\net10.0\SalesList.sourcelink.json
+C:\Users\PC\Desktop\Vinicius\Outros\Citologias\PROTOCOLOS\123\SalesList\SalesList\obj\Debug\net10.0\SalesList.dll
+C:\Users\PC\Desktop\Vinicius\Outros\Citologias\PROTOCOLOS\123\SalesList\SalesList\obj\Debug\net10.0\refint\SalesList.dll
+C:\Users\PC\Desktop\Vinicius\Outros\Citologias\PROTOCOLOS\123\SalesList\SalesList\obj\Debug\net10.0\SalesList.pdb
+C:\Users\PC\Desktop\Vinicius\Outros\Citologias\PROTOCOLOS\123\SalesList\SalesList\obj\Debug\net10.0\SalesList.genruntimeconfig.cache
+C:\Users\PC\Desktop\Vinicius\Outros\Citologias\PROTOCOLOS\123\SalesList\SalesList\obj\Debug\net10.0\ref\SalesList.dll
+C:\Users\PC\Desktop\Vinicius\Outros\Citologias\PROTOCOLOS\123\SalesList\SalesList\obj\Debug\net10.0\SalesList.csproj.Up2Date

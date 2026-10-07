@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Vinicius\\Outros\\Citologias\\PROTOCOLOS\\123\\SalesList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CCCBA1-6A32-45BC-B4B5-8F6201081899}|SalesList\\SalesList.csproj|c:\\users\\pc\\desktop\\vinicius\\outros\\citologias\\protocolos\\123\\saleslist\\saleslist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CCCBA1-6A32-45BC-B4B5-8F6201081899}|SalesList\\SalesList.csproj|solutionrelative:saleslist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CCCBA1-6A32-45BC-B4B5-8F6201081899}|SalesList\\SalesList.csproj|c:\\users\\pc\\desktop\\vinicius\\outros\\citologias\\protocolos\\123\\saleslist\\saleslist\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CCCBA1-6A32-45BC-B4B5-8F6201081899}|SalesList\\SalesList.csproj|solutionrelative:saleslist\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CCCBA1-6A32-45BC-B4B5-8F6201081899}|SalesList\\SalesList.csproj|c:\\users\\pc\\desktop\\vinicius\\outros\\citologias\\protocolos\\123\\saleslist\\saleslist\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CCCBA1-6A32-45BC-B4B5-8F6201081899}|SalesList\\SalesList.csproj|solutionrelative:saleslist\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CCCBA1-6A32-45BC-B4B5-8F6201081899}|SalesList\\SalesList.csproj|c:\\users\\pc\\desktop\\vinicius\\outros\\citologias\\protocolos\\123\\saleslist\\saleslist\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CCCBA1-6A32-45BC-B4B5-8F6201081899}|SalesList\\SalesList.csproj|solutionrelative:saleslist\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Vinicius\\Outros\\Citologias\\PROTOCOLOS\\123\\SalesList\\SalesList\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "SalesList\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Vinicius\\Outros\\Citologias\\PROTOCOLOS\\123\\SalesList\\SalesList\\GlobalUsings.cs",
+              "RelativeToolTip": "SalesList\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T14:43:13.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Vinicius\\Outros\\Citologias\\PROTOCOLOS\\123\\SalesList\\SalesList\\Services\\ProductServices.cs",
+              "RelativeDocumentMoniker": "SalesList\\Services\\ProductServices.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Vinicius\\Outros\\Citologias\\PROTOCOLOS\\123\\SalesList\\SalesList\\Services\\ProductServices.cs",
+              "RelativeToolTip": "SalesList\\Services\\ProductServices.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T14:42:58.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Vinicius\\Outros\\Citologias\\PROTOCOLOS\\123\\SalesList\\SalesList\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "SalesList\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Vinicius\\Outros\\Citologias\\PROTOCOLOS\\123\\SalesList\\SalesList\\Entities\\Product.cs",
+              "RelativeToolTip": "SalesList\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T14:36:52.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Vinicius\\Outros\\Citologias\\PROTOCOLOS\\123\\SalesList\\SalesList\\Program.cs",
+              "RelativeDocumentMoniker": "SalesList\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Vinicius\\Outros\\Citologias\\PROTOCOLOS\\123\\SalesList\\SalesList\\Program.cs",
+              "RelativeToolTip": "SalesList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T14:35:35.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
