@@ -32,13 +32,14 @@ public class ProductServices
 
     public static string MoreExpensive(List<Product>list)
     {
-        int expansiveQuantity = 0;
+        decimal expansiveQuantity = 0M;
         string moreExpansive = string.Empty;
 
         for(int i = 0; i<list.Count;i++)
         {
             if (list[i].ProductPrice > expansiveQuantity)
             {
+                expansiveQuantity = list[i].ProductPrice;
                 moreExpansive = list[i].ProductName;
             }
         }
@@ -47,13 +48,14 @@ public class ProductServices
 
     public static string Cheaper(List<Product> list)
     {
-        int cheaperQuantity = int.MaxValue;
+        decimal cheaperQuantity = decimal.MaxValue;
         string moreCheaper = string.Empty;
 
         for (int i = 0; i < list.Count; i++)
         {
             if (list[i].ProductPrice < cheaperQuantity)
             {
+                cheaperQuantity = list[i].ProductPrice;
                 moreCheaper = list[i].ProductName;
             }
         }
